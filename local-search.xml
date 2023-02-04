@@ -11,6 +11,20 @@
     <content type="html"><![CDATA[<h2 id="typora-配置"><a href="#typora-配置" class="headerlink" title="typora 配置"></a>typora 配置</h2><p>1、打开typora设置-&gt;图像，选择“复制到指定路径”，路径：项目路径&#x2F;source&#x2F;img&#x2F;${filename}</p><p><img src="/../img/%E4%BD%BF%E7%94%A8typora%E7%BC%96%E5%86%99hexo%E6%96%87%E7%AB%A0%E5%B9%B6%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/image-20230204090050149.png" alt="image-20230204090050149"></p><p>2、<strong>更换编辑器或者电脑后，需要重新配置</strong></p><h2 id="hexo配置"><a href="#hexo配置" class="headerlink" title="hexo配置"></a>hexo配置</h2><p>_config.yml中，下面的配置改为true</p><p>post_asset_folder: true</p><h2 id="已知问题"><a href="#已知问题" class="headerlink" title="已知问题"></a>已知问题</h2><h3 id="1、图片不能缩放"><a href="#1、图片不能缩放" class="headerlink" title="1、图片不能缩放"></a>1、图片不能缩放</h3><p>在typora中如果使用image标签缩放了图片，则无法在文章中展示</p>]]></content>
     
     
+    <categories>
+      
+      <category>小技巧</category>
+      
+      <category>hexo</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>小技巧</tag>
+      
+    </tags>
     
   </entry>
   
